@@ -1,6 +1,6 @@
 name = "Clp_jll"
 uuid = "06985876-5285-5a41-9fcb-8948a742cc53"
-version = "1.16.11+0"
+version = "1.16.11+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
