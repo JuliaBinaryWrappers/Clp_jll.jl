@@ -7,7 +7,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "d264d29547dbb5acf25a0eaae98287ca8261477229d0df84d242f7e967ebacc3"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.aarch64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.aarch64-linux-musl-cxx03.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -17,7 +17,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "1b2e0402e75f72036abf4403b236ff9c6a5215352d8eb73ea19176ac021219de"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.aarch64-linux-musl-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
@@ -27,7 +27,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "10469894c5ecb5c553a65f38120ae30e6006adadbd50e0fe352c1cdfda4d291d"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.armv7l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -36,7 +36,7 @@ os = "windows"
 
     [[Clp.download]]
     sha256 = "8116fadde3e9046f37798ee65dfd5fbee29ec6a7d1a4a97775995f16abe88c93"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.x86_64-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.x86_64-w64-mingw32-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -46,7 +46,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "fef5e73b06fa611e643a16025ee4b93510bb1a1721beda4e3276935106b5d26f"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.i686-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.i686-linux-musl-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -56,7 +56,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "7d012a62567bbcbb316fc18c54c26bc8deb766c697d92fa1b02c5a6abe5782ab"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.x86_64-linux-musl-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -66,7 +66,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "078930979d59abdae8b288c7c16eee3bbde7390338d777305ff779277ab7239c"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.x86_64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.x86_64-linux-gnu-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -76,7 +76,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "c94fedd321f775971ff181864d61dd3f7731de18f98edecedd48c29b231a6eb3"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.i686-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.i686-linux-gnu-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -85,7 +85,7 @@ os = "macos"
 
     [[Clp.download]]
     sha256 = "fa0e038e562bbcb2a492f4ae8e1b6fb9d40ef668016496499911545d2ff1a487"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.x86_64-apple-darwin14-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.x86_64-apple-darwin14-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -95,7 +95,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "72b5293132ebc5a1f6ecb459696542dcf9145f5c613ef5fadd727fc9f960cd62"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.i686-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.i686-linux-gnu-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -104,7 +104,7 @@ os = "windows"
 
     [[Clp.download]]
     sha256 = "9428e6b99cdc4405330993c01b12a409e4c596e7ad571448f26a06b6cfe06ed3"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.x86_64-w64-mingw32-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -114,7 +114,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "7095e2dde24617fb1b5c14f2b97718837c0336ec15271f1b2bab3c15e308271e"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.x86_64-linux-gnu-cxx11.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -124,7 +124,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "742a3d7f4ea6db06e5bb8c96bcb7e9730c34a636302e25e776353a3e178c6105"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.aarch64-linux-gnu-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -134,7 +134,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "95049153b496cdca593ceb0bb849c91189d4408b8817c8e5b66337232127a9bf"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.x86_64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.x86_64-linux-musl-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -143,7 +143,7 @@ os = "macos"
 
     [[Clp.download]]
     sha256 = "4383a5514512baf232a79ac648221e3f08f4032c8c70ce4710ed467706a0aecc"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.x86_64-apple-darwin14-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.x86_64-apple-darwin14-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -152,7 +152,7 @@ os = "windows"
 
     [[Clp.download]]
     sha256 = "c19e1e3abc48582d077be6e05b08063a05eb77e511db065ffb2d0ca6120e8807"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.i686-w64-mingw32-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.i686-w64-mingw32-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -161,7 +161,7 @@ os = "windows"
 
     [[Clp.download]]
     sha256 = "596fd8cc244b772595e7dbd0c8384b6c53b16e36b27bfaf95037b3bc0f62f39d"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.i686-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.i686-w64-mingw32-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
@@ -171,7 +171,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "72a9b502632c55ff11f63645efc09d3e10b795b76c9608ea9a5117476b171ec4"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.armv7l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
@@ -181,7 +181,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "fa7be6c24de8aec4c3eb1baecac225459c201e93e1ec19ca8ddb6307ee35f090"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -191,7 +191,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "f2f266107269181ed8231cf3bee7a988103c846c72a24d972adb808b708da6aa"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.aarch64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.aarch64-linux-gnu-cxx03.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
@@ -201,7 +201,7 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "5ea6ed137e0621c02edceeb5fa89b7be8bc3e6d535ecaa006f1c8cf6cd5f67c9"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -211,4 +211,4 @@ os = "linux"
 
     [[Clp.download]]
     sha256 = "e7aec1be948501f690ea23c0c9096efabfe02bcad2f95eb364f98bafa4e830f3"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+1/Clp.v1.17.5.i686-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.5+2/Clp.v1.17.5.i686-linux-musl-cxx03.tar.gz"
