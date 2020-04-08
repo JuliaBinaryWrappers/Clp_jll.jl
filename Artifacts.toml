@@ -1,214 +1,214 @@
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "231f98d755e8a1e670d4354296ecacfb88e006f2"
+git-tree-sha1 = "d7b428db8df2e827f26b85b4a2afba2b14de14d0"
 libc = "musl"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "f4b2b215201853a77cede153d5a06241969dd2a76fff80a30b807fe97eb49213"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "20399ed30321fc76af34c41c94acedff90d0ff76b5a8e62b8e9317809b9f90e7"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.aarch64-linux-musl-cxx03.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e596cfffc99bbf2a3af702f9015a9d557386e64"
+git-tree-sha1 = "b36aecb89e268783a4680c1a1d7f9f7965336707"
 libc = "musl"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "74fa4979eaeac0169771f12315ca7921a2d08385d166208f682562bb59f7dac4"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "eb5182ab679d30c1f1b046e348086eee4c0356589acf10f792152f4bd5678be3"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.aarch64-linux-musl-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1e2cb4622f30a07f2884159010f0cd963878bb3a"
+git-tree-sha1 = "7afbb0b2639eb30c39972be57120b89f896db70b"
 libc = "musl"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "d44744f600b2b9676d906e10a64fdd1c45fdb23cd7b509287f5b25b4612fc6f4"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "6db20800fe6e7cb7973fa8222d532ed59aee0ddcc20dd714a43a1f72c5565bb3"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "21991794ff3325f4cb45fb52c7caa4e97016efcf"
+git-tree-sha1 = "882798935e56e8f51550f02cb7e464e1e810d6bc"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "4c822b1c6675ec836b308f4f506939985392207a8abe9ea53898019c53672640"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8140ce6bd3c0c71d22af3b75dcaf5e715dae75d17195ceb8957dde3cb4653455"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.x86_64-w64-mingw32-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a6f3de2db51d70ff93a44b1a74610c2cd32cbfd1"
+git-tree-sha1 = "a445cedd8483f94dba3751c2361382165c26f48b"
 libc = "musl"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "e737c5406031aa461feacb3f5388b9975d45a770529f6cd0ecf1620dd652e925"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "7e9f13396fa05fb06eefa6c1d540f6e80faf959c08c779c5911ac91fad058c10"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.i686-linux-musl-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9400f4c9906212a380dc8bab8b08c7c0ce9d7dbc"
+git-tree-sha1 = "5f9357bfce366a4a311221c420c5f06dc2e0662b"
 libc = "musl"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "e0cb1a348aa86cc43e7e164c06c8b60abbf066572964337b8f6f3fcea08f3566"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "ca00adf8515ffadd8e08237bea8dadfd0bdf8a6f95e75ca787c74a4b769bbe19"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.x86_64-linux-musl-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "58c19c365ab4e9df3f76681b907975db75c30fd7"
+git-tree-sha1 = "a3de585696780faa258755785c921944c7ce9afe"
 libc = "glibc"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "87a6328f7a0c22f992429e73f1edee41a1984476df985d45e1e7783f6cba9088"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "6d0f76ff6c486f8d87a155f4c1b170701f0489e417aa5d5d300cfa6b1e08153e"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.x86_64-linux-gnu-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "04c2b7879b0bca63505b89bfdeb5aadabdbef440"
+git-tree-sha1 = "69b0ad604473603b28364c8cd6c5ae6f65092b93"
 libc = "glibc"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "23123372d3c9086e66d1e0f8c954052189c1ae6a69e4f10092b5e7d2390c113b"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "57059f860cb1b889acc196866a99c5aaa59306e82f205e7e4262018e9bdc2775"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.i686-linux-gnu-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "01b5d3932ddbe3243794095f4d15ab9f8bedcc14"
+git-tree-sha1 = "3e68da32efc700055803a9379f1d476129ddd847"
 os = "macos"
 
     [[Clp.download]]
-    sha256 = "aba562b7835f092127b2a620c0981c9e7e257a13fd894de6c9cc47dc031e0ff6"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.x86_64-apple-darwin14-cxx11.tar.gz"
+    sha256 = "fde6fb146da0237054254a77ff0e5f20c1d68f75ee503903d7aaae71af055311"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.x86_64-apple-darwin14-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "17c1ee80e7ebc3f47f6b37d93a24e193ccf644bb"
+git-tree-sha1 = "2413f3fa61fc9cb1158ac3bc2e1f5e96fb0f96e9"
 libc = "glibc"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "a034beb0295470d7dc11bec739fccf30e52f4e3de5678b6a06e3ee598d5672f5"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "587622ae01cce373fb242259a728383788b4b378da5cc2188d055a168987835c"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.i686-linux-gnu-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "aa9f1be778b63bb0aa20293803a736056ea53c07"
+git-tree-sha1 = "379d4848bfd95e38d2353310aea844bf28c97ae7"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "881e1c089629487a7f9619f0636bb9a10b0a0546c7cd3c48cc7aec95f503c96d"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "a36243a2387ee399316f1f41f7bfb74b00eaa273d3da720a6d91b1573b91c5c1"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e3960e0c263f5bf7d90117bf461b7780c1d8463"
+git-tree-sha1 = "9710b5772c22675bb5257296500abd0a02381371"
 libc = "glibc"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "fb78b1172e8e22ffb9453f671e433052da8f04df5463b619e3d2d2798a5064f4"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "466ef6b6dbae4d142903d80d2cbf501e7c6053472d701f30f28b3c768f82b3ce"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d802ce639bd42f69a998c2b72aa3774fd39de468"
+git-tree-sha1 = "e70e820bac0a479a9ffa1726693da167b2b21f0b"
 libc = "glibc"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "269363d38e7afb0693c39d54457bd6ec5f14acca766080fbdc1fe4cce42c9f87"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "adc4cd937d137d3887842459b79f33d74638649c06e63c8a7e5d76fad4e2040b"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.aarch64-linux-gnu-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6137b51c74ac4b4c130f38c802e35d51ecc34d03"
+git-tree-sha1 = "510c7e12b0f8241f307b73a7d1f6d8b84df11f1e"
 libc = "musl"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "8acb606a1d4566d8b2535716d189dfcf9bfefd8cbfe740e8119f045f561d8183"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "c023584d5a52d8c737abd3854243e81f4769706260fb6e6ea12402eb75770019"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.x86_64-linux-musl-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b6c590f309be10140bf7ba37a9ad3c82aa32e106"
+git-tree-sha1 = "91189d2aef4c6c4049595d6f50ba775dbbe5dfb4"
 os = "macos"
 
     [[Clp.download]]
-    sha256 = "98fbc4a18e6232fe469da108ee20e17325bf16dabf03726d42d66085e06ea1be"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.x86_64-apple-darwin14-cxx03.tar.gz"
+    sha256 = "d06c148b0bf905c5b2706785b311586eca384ca359c2adb41edf6a63ef79829f"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.x86_64-apple-darwin14-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "112d8104d496cc4b7eff77700c1de1a542de0f7a"
+git-tree-sha1 = "f5bfb8e3d94d8cf40b9980cb444b13fea4383391"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "3061e2cda14162be8112957afa0aeefa04931e05405919dff2f600862296919c"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "9c3513661f1ae44463b1d045a2d5a24f9af5f2b1385c49718be9f806d8323034"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.i686-w64-mingw32-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "492e4228c3f1128800117f06129f864e69ac23d8"
+git-tree-sha1 = "8e5c8d79e6afdd14379addfb4869f2fc9640d187"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "cc428b84b163bdc8958ea0f6a2de54919540d31d85f9ed1a5a6317d83356d7ac"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "a1feb0cab0d92abf16a725e73d2c32e9e6123a3af3fd40effc739452899a2fff"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.i686-w64-mingw32-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "89209b884498d8e1701db85f1d2f7d0a4eed19fa"
+git-tree-sha1 = "9ddcdd4428402a9998d2fbdecdbeb6f219e8f0ba"
 libc = "musl"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "24ba396d842e1cab8bb045de62ed7dd4cf64d6a2dc5308c90c933272e6f8674d"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "a8f876bfd83d05fc262cd53f66eb1b07bd253735b050a090ce1103c0c0ffe8ae"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "df614b6eb8f249e26ebd85d6675a2ff6aa3e4ab4"
+git-tree-sha1 = "7e72d5860e3613f45608b049978ba63f77548f6b"
 libc = "glibc"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "97b974ca35743bf039564c546c8a0a19a2122d0691f69ce1970cf4e5208e4dec"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "6271304ff7b15cd72d728af682c8bb209add4d4b4570b010625050064e317c72"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2693ef1d78328cb40c06fe2794818d95ee19fb6f"
+git-tree-sha1 = "42128084cecc74c89f8f3223bd494179db9b0a1e"
 libc = "glibc"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "13f3f7541c9804312959007df50099e494b5b9819e7006bbdc19cf020e6af242"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "92392355d535e97a94c66ac202ab86dea94f78ca281d5207cb1a8a08b4c19aea"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.aarch64-linux-gnu-cxx03.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6438c172f91c3115bb4f084878d80167fed13995"
+git-tree-sha1 = "70bd614ca9b9dd12a96c04a472b8f90670ef9dac"
 libc = "glibc"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "9f8b53a8782aa493195c6270400ff9c36cf1b5b3587ae17a1925a3463133ac29"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "48e9984e740c117fa02a64d081c0701fad3c4cecc1a946dfcea9cda92d07c975"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "64086bf2b4c965b3d8bd0bcdfdf79dfd3ca3256e"
+git-tree-sha1 = "3535ec3f410c660fb4b94b707518c5af4aee772e"
 libc = "musl"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "7103b19ec659dabb65df42849e8754f3243b341c58882f166a01e5dff7e7d6af"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+1/Clp.v1.17.3.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "b2142aa99f9396a50d8d080a9a0e428192506cc7a1cbb3ec20699c1c24f47764"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.3+2/Clp.v1.17.3.i686-linux-musl-cxx03.tar.gz"
