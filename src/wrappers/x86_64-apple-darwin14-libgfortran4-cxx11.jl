@@ -11,7 +11,7 @@ LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
 
 # Relative path to `libClp`
-const libClp_splitpath = ["lib", "libClp.1.13.11.dylib"]
+const libClp_splitpath = ["lib", "libClp.1.14.6.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libClp_path = ""
@@ -25,7 +25,7 @@ const libClp = "@rpath/libClp.1.dylib"
 
 
 # Relative path to `libOsiClp`
-const libOsiClp_splitpath = ["lib", "libOsiClp.1.13.11.dylib"]
+const libOsiClp_splitpath = ["lib", "libOsiClp.1.14.6.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libOsiClp_path = ""
@@ -39,7 +39,7 @@ const libOsiClp = "@rpath/libOsiClp.1.dylib"
 
 
 # Relative path to `libClpSolver`
-const libClpSolver_splitpath = ["lib", "libClpSolver.1.13.11.dylib"]
+const libClpSolver_splitpath = ["lib", "libClpSolver.1.14.6.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libClpSolver_path = ""
