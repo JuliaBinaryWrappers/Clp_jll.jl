@@ -1,708 +1,708 @@
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6d578eb7205f7908cb3844f833a9cd40e97c2859"
+git-tree-sha1 = "efc1f73fd30dfe4fe2c0931db7a48255cf28b162"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "f5354e4147a93b31d49614e9fd6cc879ecd5c328d8d82fc3d8fd06640638b643"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-w64-mingw32-libgfortran4-cxx03.tar.gz"
+    sha256 = "0ea16280ec6d8dfc70a351282586af0938e4c16886f68677b4df177a1077224a"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-w64-mingw32-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2ea293066dadd6eadb8363ab3b7f25b3344cdb83"
+git-tree-sha1 = "f5301436336cb472f9e97b2a4cf144a842e805b4"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "6c30b25eac9777cbdc4c3a636166052d96ad48e5ca407ff6687cf30f288ebe64"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "a18d456e2286f0d58f027f65185772da6fcfc7d3d758997d551e478e479ae734"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1a21dd241a441d9a2242e5d127da583e025052fd"
+git-tree-sha1 = "f172181f97451ee565f7f84e3b0e4a705ba927da"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "c8e18277908d453a744a9bdb2b918f2eae86b6bf206032526ba932f588422223"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "3ffbe3d3faca8a744d417cc146df06bb7b00cc100afa1345b315c3499b3d9b74"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "063d8a2c8a8eb0496ab29a89682a2e2a04ed1bf7"
+git-tree-sha1 = "503f04a11d82bfccd6667ce9d160d635f84c1031"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "1e30b384b9e980a8591226427a8cd673f141aa7477e8100c8299af3fb8a9ce55"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "f847c54ea7750531a4db90b8044204611b41fb26960d4c18008a3f974bf59bc9"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f727d8f0cb177af58071f2b73a662df028322b31"
+git-tree-sha1 = "1004ec6cece26a988f9746307f7d58c7d85f4efd"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "fccc004bb0a724693fe92c985981ee9376f2738e382e7b767101e33d801d6e03"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-musl-libgfortran4-cxx03.tar.gz"
+    sha256 = "aa5c36a968440f5cdc3bb3de29117871b27c83b91697e1f9c109ee33875f3c20"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-musl-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "83f86366c077b9ff3de7db1ae83e0e4273f009cc"
+git-tree-sha1 = "4b7983625f70717b851c4c67c26d7376b5df62af"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "6456bc1ee9c2946ca44aecd275a21f654e83bc4109b8d0750980ebec6632e80a"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
+    sha256 = "d6d6d9218ed77752bf2718bcbfbe6544ac2ee5561c32f3507cced200fba8b665"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4a4aa640337c2a30a9681c2acc87b2062c60db1a"
+git-tree-sha1 = "1dc78c2f4f92d48b1e2c236926989076e5e62d1e"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "9478e182dba30366c049dedaec9b0318c6a9c1b1766085d52b9f61f95ce134d5"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-musl-libgfortran4-cxx03.tar.gz"
+    sha256 = "23ae2585a9e68ce7956e95f55daba67f101eb319e787b3b48a8ba7060e9d69c5"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-musl-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "25584992e31b27369659042920dfab2161e1ad50"
+git-tree-sha1 = "cc988717c32644fedd0b45a85ee91095d8c83a71"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "87d19c5e8d82a5c070f9ad66406dfa22bce2e78ac151fb7a48788d3366fce71f"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+    sha256 = "ce5bfda854aeda1521a26a0f920f8456a0bb14f21e993a4df85b37b45aa3f14b"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "35d8a4f473908a9ada4f5661961d2b07213b42fe"
+git-tree-sha1 = "eff8283efad077418ab72eec56ba023e1553a536"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "a56a21fbfb51bc16d4ff65e68f40c7e38990ccc93c105d1f22d6b1d01bb078e9"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "0efca35168a0867797852e06d7cb9a0b964157d4df66390522a7a6e66df297da"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "22acf78485f281caa99c90a7bcb1008057903dbc"
+git-tree-sha1 = "7cc51708bff5515ea39e96ee4374a2dfbb1306b4"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "21df2787c30c3b213b646568414a001e7a837b24fa25f6ac9d1a5f63ffc71ead"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
+    sha256 = "5dfc6a46f867a2002362f9a146278a408685c14bc7a94125509c9a59107e17dd"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8c55055b2a39e72b918d91cc9dd0297e01207a9c"
+git-tree-sha1 = "bb78bc7b80c3f2c7595f401af1725f33aa5b851e"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "05507c420f4861b5850ff6c493859f26d19d8a8a8ad26fa1d0ecb7f823555dd4"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
+    sha256 = "31e1612c6370c05c26002ecc1f282dec0c9e27f4f1e2d906770a3577f70812a7"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ba19123bfba70f432900bcbc6fc88aec2e1ab44e"
+git-tree-sha1 = "549e8452c107029be14c3d4b944869fad5fbdc4c"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "8d9085e4e95a1e906777cba5eee928869ac7a07fb99bab081995b9bd4ed6c2fc"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "d03e447b4d05b72f77dac2fc74540f53de663cedbf651b459cfa57f3abd4b15f"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8c6d9ab6e5bfc2ae26e7b86d423561c41cee90fd"
+git-tree-sha1 = "bf2f4b76367d5b8a534d3bec62ed8cb38dea8b04"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "4f95e4ade03185eaa8505bf4bc1c27b84dcc582840b115771843fb133d675187"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "42f50d508809e4a5594ccb1796bfcc55d2c82c4229308863cbbb8cf1c33fb024"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9f2ffb9accefd53273129d9280d6da8753d0e867"
+git-tree-sha1 = "098b5e99a3e052fdf1f07abbc8fda32faa7721f7"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[Clp.download]]
-    sha256 = "ef6f4ded026cfd38e2e90fc996a6271030295fdf3c0c23712012111e25b86e99"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-apple-darwin14-libgfortran3-cxx11.tar.gz"
+    sha256 = "124a649fcc5c6bc3c69d33f5b0f7a85039d4498e569a3c16b29706485b6c3134"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-apple-darwin14-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4f9a1d66962a1b3ff58cd0ab8a9bcfb187608a83"
+git-tree-sha1 = "941957f9e1a7170e0631f407a9b94bf21573b077"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "c0d81ef748a32437f1bb9bccc66c133e7f3deae4714fb2e2f9f963f30e3a8296"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
+    sha256 = "79f7402d20111026fe0419798a4cd92174bd971ba67b480304fd54aa4767b736"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f59694b30d09fb71879945ac1435856873f50f57"
+git-tree-sha1 = "649d293ad423be8d328b6497a2e55eeeff04b571"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "e02fc021ea5dff7e257d2bb652ada38680792b355450dca71b88db4543aa0c9c"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
+    sha256 = "7c0495b8ed0a55b88e891ce25a598e7708d956ed17bb5fba80c4057f9f6c6e97"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fc57abad2b904ef2f79cbd22a926a84baee17333"
+git-tree-sha1 = "b70c4e76eddab9656af8562f9230f8c3a987d74c"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "e4212da9fca24fc2b5546b1624ca9551381b08050da3f7fc73b7b99a2c148026"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "7053082a87c94ab4d6807adc1b2a50c0a97a8f7face9f0b9b56f187eae4228f8"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a68a0da7feef3f9d70f5f4584aa9da4f91a2c947"
+git-tree-sha1 = "640976b06760b7118b09350a65aca337926d9452"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "b79a90e35906e363b9b51d7f6e15251f7c4325f05998ef3fe94a76de3f6598cc"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "02611a75fe672c6bfb968ffc6f1c1abe562612b10244be871e08e6574cb33c22"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "12b404986c2162f7e86b63cc106c2ffaae9aa73e"
+git-tree-sha1 = "f8a827e36ff31711988e9d3fdae9fb3d1e2d0581"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "fd15238a073f135d301df7b73c48e3b53b76081e93ced93d1a72f46a12b85a2f"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-w64-mingw32-libgfortran4-cxx03.tar.gz"
+    sha256 = "f0ace52c7215b43ffc3c9a9fb013c5a404b3e4cb1ae64f5d26cf18b8ffed8b9a"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-w64-mingw32-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a356e57a0d5662ba84215bb74fe42e159f6deeed"
+git-tree-sha1 = "95f8ee68d593de18b40b85a8a3130b38260158f2"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "7ebde14d4cd805386f1683723fc2b680d7808fb4a6d12f735131038031fa8a11"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+    sha256 = "b8504b588e0b1241bfab26d36cd7f56d43fbf654948e1190a1c876e0001d1827"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5c179c18ea70c00395e7d0eb756c245ddd0caca7"
+git-tree-sha1 = "b0ac73668977893914da1d503715fad9afc99142"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "b4599210c93982c2d69405291eee41b41d294c57c20e64760fb98074ba3c9dcd"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "378aeb459bcfc4cd79feb5787c9b1cc4b0ecbfc330231062ab866d73998ad856"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b0dd36d773e2454103b88466300858e5e99560e9"
+git-tree-sha1 = "f85ddd359e110fadb900f09cc8dd1a96892081ec"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "9780714e9ceee62a1b0e59b5a14820f662989568a0a7b7c3c6e035f658140dec"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-w64-mingw32-libgfortran3-cxx11.tar.gz"
+    sha256 = "6c16de446d247d3f02468b994896a94cc6399d055da3e2c0a68d709a4b1cf7a7"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-w64-mingw32-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ced4e23117a521809187b8d8e63991075ce3b3fb"
+git-tree-sha1 = "7ef0e060b2b30068d28cec2381ac5106171a7e55"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Clp.download]]
-    sha256 = "937abc89a4a60598b6ad304f558f0c4e5dcf842d161eaadf01d797552b4268cf"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-apple-darwin14-libgfortran5-cxx03.tar.gz"
+    sha256 = "d560f0e97747b0f8572af1c7888de91cb184c876f9274b830a49e2138f8f2c6b"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-apple-darwin14-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fd0542aecdb5692b1cb3ffc1a5181fa3eec1414c"
+git-tree-sha1 = "854e709c0780a3c5915f66c95279365feb5c5c82"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "1b60c44905bab3c6dd95af052f52d6abce70d25ca00d11aa2055194add9f5400"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-w64-mingw32-libgfortran4-cxx11.tar.gz"
+    sha256 = "9ba848288d58ab36443a3dbc2e14b1053718065a8f12b9c454b502301b4e39f8"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-w64-mingw32-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6b99aa680f2a09b3ecb0ea473e20c54b001b8199"
+git-tree-sha1 = "680a75ef4e2b1ef79c269cf039724c12cabb441e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "8161168d8923dcba23a6426c7914063a0bb9e0405fd9977133ac82c7398493d7"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+    sha256 = "0b19822ddf2d421b68f67eae2ecde9be8dc1b405ab90c4e1e19dea7e772c2ed5"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b1bc9ec85b9644c018d376134cdfb75b53b3b8a8"
+git-tree-sha1 = "b687e433f6a90c54f7f7374822e8eafb6c868714"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "cb079b03a2fa144205273962ac9fe79a953c32e1c960844f4d01f0ab379e7ef0"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
+    sha256 = "30021150927ff8c494b73ce22256e8186ad1ea2a976fa8798cd5b9f4ed6adaa9"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5da107e2e5485d09782cafccb9b2ab3f067ae202"
+git-tree-sha1 = "bd14f090c7ec2649d6d024eeb3027db3c2246492"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "c7ac81b99b7c2d6bdcc645876397db1c28dea229229c50b3827dcfec367e7240"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "c4c4e8126e3154964db420162af2757f2b1676b86df7f3c463f179c2a4db9b1e"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d7cad5993d414bc4a4e15126f6fe69a743673083"
+git-tree-sha1 = "bd5380e1d733a253440e67c8bd5a70cc6bc47069"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Clp.download]]
-    sha256 = "8983255735f51ae4026d03dc850f951fb7ba06a8875924084139324780b887b4"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-apple-darwin14-libgfortran5-cxx11.tar.gz"
+    sha256 = "371e16a716752fcb2877df98130965b2435eaf14e399e3f5cca8c7ac6923e8d3"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-apple-darwin14-libgfortran5-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8e4fbda17b9c5a5547269ca995f5cd7964b25654"
+git-tree-sha1 = "569e709989682c0d698bf1101bf682987c6da11d"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "4412136b8fb784fae0b2e34fe847420c036dede381c8e6cc8f21c5d939f5209a"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-w64-mingw32-libgfortran3-cxx03.tar.gz"
+    sha256 = "d8a67d974ec0c983e14c8f983caf667049c7b8e1cd5a33ca79ae52415240bc60"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-w64-mingw32-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e0e2e527d7e491025372e98269e51f4dc4888078"
+git-tree-sha1 = "7486c2db3bdc0017887a2f6333c4b8e3f423e1f6"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "a48fda8e565361084272b5c65c5c3d56b2a3cd69a629b0dd64a3d3f56c2eb5ff"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "fcdc7ffe64e1e5bf2451a8c29da373d63ada335c5ab6a7f7f3a1908b678f57fb"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b73686bd2579844838b92d25dca27a550ace2cec"
+git-tree-sha1 = "b4c9cf7d85b0e77c145ac26e0c512cabde067627"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "d641376f9f9123d9b48f1e23e8939ae253498f2c90415d62fa57efc919646161"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
+    sha256 = "f8fb392eaf524ab1e5308cec8bb18e416e308b707ff2fa37300dc8a4e18b96fa"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6a67101bd4fd2d01f6d7f4e709a2764323ee0122"
+git-tree-sha1 = "e97cd7d151fdc656e9d2f5453a3c79197065c170"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "67dad2bcddace299ffbe5848e2093a4089dfea36bf68962a6dca717d0e6dad11"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "1a47ccd5be2a33d561438a4e01e8f5d182446c21fece60a245205f2a59eed097"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cea79b9df75449635541621f920d24bfea611620"
+git-tree-sha1 = "de6fe33244292ffcc1f776f8dc0af18fe5fec8ac"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "70d2abb458148f198f02e9a3593cdd7904843eafd1a4a4816eff6535cb3a0e90"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
+    sha256 = "14a6ae059d7949ab86079ba62cb3ac54d8d5fb7177b912fb112ee19ae0d6789d"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5432ae635b89bff30dfff33aadd2a56c058c42fc"
+git-tree-sha1 = "5214dd926a54c702092c046c8f64c70702f1b5bc"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "79bcead397ac68976b2003e1e165d9fc80ad91bc06d6f1fdf7effa381476a320"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "db8431a81a5309f6c9f389c73f91dec943231901e3734dbffb1668e541790d58"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4bcf6c5197c523952cad66fe755a9a1dfbaf3866"
+git-tree-sha1 = "d18a91bf20f06cd68deb2c6472129da9b39c1155"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "f3ee9e3c7e25487215fdf2098c6765e575ef03fb62192b3a392e4efceb5cf473"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "8cac97da429a3cc7971726099342836b73c63aaee4e6ff8e013e4991ced77924"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ebd0193eaaf7af75f1add84258bec20fef5c87d7"
+git-tree-sha1 = "2ecad4fd17a79a183893aa7da9ec6096b0464c4a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "21bdcbbd3fab191f92c23e04446f237a910c15a9d2f900a3967e76404e9299f4"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "62df2ce227d73ee3215af7ba1622933ea44f76327f588cac124874e0dc4b2b1e"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "09b9dd27f584cfd4c3dd261d87c8e5b86fce7e59"
+git-tree-sha1 = "cbdc536a49b7bdcaadd9cd88c7c8883a40d5f36e"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[Clp.download]]
-    sha256 = "cbf8ddcf79c1d9738d0bc1200d73e8bf7eadfd79fc90046702d2baaba7f458aa"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-apple-darwin14-libgfortran4-cxx03.tar.gz"
+    sha256 = "380e12dde98d6632da5b55cdaf87cae9a2d6b1eb6bd2ef0f655816ca7583f9bd"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-apple-darwin14-libgfortran4-cxx03.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b71ab2c5f54f04ad892e38142b1298258cd59ec6"
+git-tree-sha1 = "233daa5f2c7403e51faa6edf97f41491ea451710"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "5b22afb8a1ab6e20c49d2a292ef113bf1b8ad1cb515f56bd83a73a2b53727963"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "048a484274b5e5ea9acfea5dad1e6f671ef745df5266097496db8637348a6a85"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "67ac499bc7dcb6fab16945d1f6a961ca3b654bb0"
+git-tree-sha1 = "6e2b0142a6523d4f7cccadb4c752e4158b52eb55"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "047a9755f4d17f52bc6a7f80a1e59f4c1101649577a9f36b819431e0512839eb"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
+    sha256 = "0d60f80ca46b9aaf577270b79758ba89daffdefe5b09d0911953e76c722caf91"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "34c046416c6811519f563670d79a7adb68ca35e8"
+git-tree-sha1 = "024a88891854c2ddec2b2a27eb11e3c23005cc5c"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[Clp.download]]
-    sha256 = "f689aa24513fb932f5fc03e9e963024c7ac9ccc7f60ace9a29b18ce78c04ab7a"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-apple-darwin14-libgfortran3-cxx03.tar.gz"
+    sha256 = "7ba01362f567ac35b78ece20ef652f3c68b2b9a424e64f7e0accbd28704223a4"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-apple-darwin14-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6bb9faf31e4a96f9f62d1b4f276d2894d400b40"
+git-tree-sha1 = "8bef2e82bb7a9edea401320f26022f483995aac5"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "3fba44ac8fcdb8469de22444fdf26ff81271f56f2d61a64b7fb99b88c9e31bb0"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "80f4ccac02d9079adee48a5bdc2d3852102dd63d3548daa599cc9835587cc229"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "94bb7126784365e101d8ce54648e7e1098d3e30f"
+git-tree-sha1 = "e2cb20e6a3c348ac24d6c1907cbfbcb0e8c1695f"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "6fe797e952af0c9e837dcc4e2c3ea3d27a755fdbb4589171fc8dc093e10f4def"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "151d0c850622aefd892a6dac8c3633f1d5c6a8828a6475e2565f2b5eae970e69"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cf4271a645aa3ffc111356f9d679747a3ba8da2a"
+git-tree-sha1 = "d392cf631210687a17054d4d08bf4778d5961552"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "e9121cfa07dd48116d8ef4e9175419722c756ffe6dda5c3b047f19a447c89888"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
+    sha256 = "ffd5dc3eb7900929d0d04ab160b5a94d75f50d7a03191b568d8f81ac2a2841ac"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8b3364b234991188c812abcb302ae5ba5bd7e33"
+git-tree-sha1 = "1746320c8183f674cc6c2ec0404ce57686cf2306"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "703ebbd33f90ebbf07ccdc70177e4ea298635fe63bb5aa8b5fc5a212e186b7be"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-musl-libgfortran3-cxx11.tar.gz"
+    sha256 = "65605ca2f4c298ee02eff193da40473dd4d0df8984a49586601f94de2654e0ac"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-musl-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bea9cf629ad58aabed3f6d10e3c6a04af8285756"
+git-tree-sha1 = "78cb32629cb623a59089b3d1e27b13004d8e633b"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "7c3f9a32f5d8f2bb8b15a3ec66f98cd7036a59bf9cceddaf4b8f5cbdcbfa21dd"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "f77605759fecca89444479aec543eeb5507ccaa611a98a1d67146589ab7575a8"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4df5b56ec9ea19b97cd031700767340682bcca78"
+git-tree-sha1 = "34285701cf2779d6bffe60aa9fc16176c1a9797c"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "49bbd4ba22ed5c6b20ac5eea572d5de20988c894397a5c92bcba8b4dff34d0f1"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
+    sha256 = "58c0c0f9d1efdacd6386425a06eab8ffae0c03fde8bbf88b3c85678ed99c08c5"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3b3f157cb6dc097700ef0fdb0cc5cbe8da629421"
+git-tree-sha1 = "6e01e443940d92536a533f606de7a5db4cc31c7a"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "b40bc5e5062d7ba408e04e9ca9e4429a842777aa6aa99582bb83f58954f92cb9"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-musl-libgfortran4-cxx11.tar.gz"
+    sha256 = "4cb40d21af6da18e1fef619ce4b61f41824a055142e8764ce27b0a28cbfa44a2"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-musl-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a628468f9852ed08167efeda34d7735f0f1bfdfb"
+git-tree-sha1 = "ba368af7435fa9e862618749c88d12fd3755f12f"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "422965b894ad6a84845fa76fd82229f6e9066322fca73acb3d477108ea4b8cf6"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "eb90d70513c56bd4ec8642396f20343021a6980d0ca58f8466fa4c892d752f1a"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "052c8265cbd3fbbd154b22336adcf2559d822d01"
+git-tree-sha1 = "50747aa3aedb3e0ad6f8a12aa617629d8c8b8a92"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "84ae13f4fbef40677e63905bb9d761c9366b3b103c4aa7bc40b378dedfbc70ca"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "81a4813ed95a958aabfd4880667344c32d565a8b584fb87b9c5622e47a0f00a3"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f6bda704893a93f144bc8bdaa03b3a4d404d16cc"
+git-tree-sha1 = "d4bc5a6c8a6960e0eeed2fbd84a082d17fce3044"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "8341b8bf1d91982cb71c059d79657333579b5cd370bf51370d4f7625c5091c68"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "1abc23f87740750ec60b639662354f0cfef7eb6b6770460934b8325870cf3ed7"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "392184df4f18c9954fe3e9e1289f75f4e7cb7350"
+git-tree-sha1 = "923d34d0345484aa207567fbdde138a825bf2220"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "bd7528744bf22034e7beaeb791635d4428bff8a667c0f6fb6b09679a6636b031"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "d7c56b301caf2dc660cc96db5d287da3925a74ab680a1842918d99298f15ae15"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6cb766c71254b7f01cc454ee66840a0e4d929aa"
+git-tree-sha1 = "10cdaa91daca223f0f9bc8d4ce625732e11ae90d"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "6d71b78a498dfe1e708bfce84c36d8da634b50e1981d5a918f0591e06e6119cc"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-w64-mingw32-libgfortran3-cxx11.tar.gz"
+    sha256 = "d0faeeee444cd4860da4e02379926e4c5ba1ed5fac1215c5ea16b93e55ade519"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-w64-mingw32-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4f4ad26b444aafe13f14d8612b1fd7c2a7c5d6c0"
+git-tree-sha1 = "6779f860f8ecadedf18dc2f3c95dc5e4601af128"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "3e5b832b2f53c27308a10c830a840625c6b9a675c1481ce661b5a3fa7d7d4594"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
+    sha256 = "2e724973afe5083e017ba9007be0d36b011920173ba7a3d1d4f4275d34b9ddf6"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "93d1d45726dc4569f3adea5340b0625725ed3b43"
+git-tree-sha1 = "b15afdf5394b334d3e5bf6f0fdd841f6aceff732"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "ac1d6858df5280e7e49283de74af70225351ae3006df3100f1009f142dee7752"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-musl-libgfortran3-cxx11.tar.gz"
+    sha256 = "a0601654da278b9cf0907b6f4e159e99698d441d195386a6feaa93e0ac45f176"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-musl-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7dc63d55b101225d8169cd77c1816c54c78a056c"
+git-tree-sha1 = "5963e970fa5c6af38f9cc77dabda7f74c6391a66"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "38c1a8dd93aa0c3c841ed973cc10e7dd754a57c53cc0cc6a5c3fcfcee8075f6b"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-musl-libgfortran3-cxx03.tar.gz"
+    sha256 = "d7a87a9a89d82b494c47ae5e2af71f56da3153247cbeb95181ba14278517fe7e"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-musl-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "05b908a09cd996986a11adf201dbc9fa45ac2a3d"
+git-tree-sha1 = "3f6d9ed373470b305f22ebb6320bfae3e74c1e75"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "e1bc447821330bd9224b5fe2ec4b21175e30c8949eb90164f222c4e327d07dc6"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
+    sha256 = "42d9dc0adf59efd239c24fa5ccad0872d432fc315be788f0ff81f00bb1739b4a"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "44c6208ba6c31e334e2d77ee7e3491b5c0db52be"
+git-tree-sha1 = "a15bedb347defe05af4f0187ad22c255da2213d9"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "b2d655b793932c037bd6a0dfa863c9c7c04219ebdb7d9b886399bff474a8f2a8"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
+    sha256 = "602fa663651197920521e11fb399f0d445e8e5c79987d4615777f8ee9b548eda"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a5a0ae83504aee58b474ef73961c6d466c4eb1c1"
+git-tree-sha1 = "1294459e4faed9422205d389eb28e3e0ae121cd8"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[Clp.download]]
-    sha256 = "b73c14d60fa8950e54fa219cb57355fd74976e85c02845a8a02feb9667d5791f"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-apple-darwin14-libgfortran4-cxx11.tar.gz"
+    sha256 = "2242497db1f42792f66e3dfe43cf6e79785e015a0055fa3635d4f443a0bcd411"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-apple-darwin14-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "12f4ef6268024c5fadd2dc3c589b3d2f5867a091"
+git-tree-sha1 = "9174ac471df0ff6ca1b45cad3e208e5a5bd7e034"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Clp.download]]
-    sha256 = "f0deeec3e8a004b9417dff7c74f660509ddde4d3e6b67ab603713d447c31c2c8"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-w64-mingw32-libgfortran3-cxx03.tar.gz"
+    sha256 = "3e27c5da15059a3c2d0a1639ffbae53bd190f892a0409e7c4117bc9d4cb4a073"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-w64-mingw32-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d724ffea5248fe306ade7455f0ef1201fb52355"
+git-tree-sha1 = "2ab164c4c3f4968a6b39e0ea346f8bbbe3ebeb11"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "7ae59b04bd148aa3cd8510da62e72b4b4c1e5f62e87d771d7b99e3ea7c231a0a"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-musl-libgfortran3-cxx03.tar.gz"
+    sha256 = "1efac3208d748c6da43a6334a02df1f475b2abd98c3e73574d79cf71b70c71e2"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-musl-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f8baddfbbf62326cdac7fcd6d92042ece3661922"
+git-tree-sha1 = "7875a06d0019625e2f474cfd3bc8fdabd675b86e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "d971000e7d50b4cd07686779fdc914ded7ddb7b6041a993f6d8f57f4db385d15"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "421deb62e66613c7fe4268cd1213b0905eeb672957b6fd683727a8952cc51225"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Clp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9c97b2f59907cb84b6dac8fd5a1a429a5999a506"
+git-tree-sha1 = "b06ac9047b0e1760ef3fdf7b3ab1b1549f8b9597"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "65e13a353a067d25431f6777b6b14713418f5751bfc96adf087279bf044fde08"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "fa5cd09ad183e9a81067f471e8e914e5f8a9a0802af1f9aaff67aaba01432fc7"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Clp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7550987a281024e3ba72cae23d8bf8dd6b7a9cad"
+git-tree-sha1 = "9ffd77adc6e2c361f0aaddd4503c0b63c810eb41"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "3d3f92f9de3ec54890eda173635b0d46f39bd8c6669ad1ef4f2adaee89b4b592"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "954f2787d83c25756fef78535db337adf16a8aa432763ede9e05eb4be48cd0ae"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "56d39e30e1fbf750a0082035d31f4a1f5a1632d1"
+git-tree-sha1 = "1329cc846e06305be13e5e65079dfe8195d9ccae"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "663c3a3aa0cbf3adac17af9700ae36115e4f00db29cf080853a4cf6d330882e5"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
+    sha256 = "ebf3f8b3f6cef5633cc1a96f3c93578c52b9ad01bb2582e1220789190144c83a"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
 [[Clp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "27e5ce1e3ad5e4dd190b62ba4c0d06727b67bbfa"
+git-tree-sha1 = "d102156f0452c6fa71c4e6a64d2ee5c861d51c79"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "16c2071c73486643272df7ccbcf220894e7d14adbb181fd4759792b026fc6544"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.aarch64-linux-musl-libgfortran3-cxx03.tar.gz"
+    sha256 = "aff76d90321ae3d8001e0587382e9b4a8b70d454aecdcc8bcf85bae2cb80f71d"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.aarch64-linux-musl-libgfortran3-cxx03.tar.gz"
 [[Clp]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6eff9824959350e1d8b00efc90ba5da5ab50d825"
+git-tree-sha1 = "7b356115df1f5922ed169194eab417fc686514dd"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Clp.download]]
-    sha256 = "21cb759ca1276049c24035edaa190ac8cbc56141c07cb8f4b0269bc091880be4"
-    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.17.6+2/Clp.v1.17.6.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "093898837114f673f70ca2789554bc9e67748c17964e5440f40caedd0a63075d"
+    url = "https://github.com/JuliaBinaryWrappers/Clp_jll.jl/releases/download/Clp-v1.16.11+2/Clp.v1.16.11.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
