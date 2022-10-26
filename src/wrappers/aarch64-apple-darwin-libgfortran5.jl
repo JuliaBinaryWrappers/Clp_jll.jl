@@ -16,19 +16,19 @@ function __init__()
     JLLWrappers.@generate_init_header(CoinUtils_jll, Osi_jll, METIS_jll, MUMPS_seq_jll, OpenBLAS32_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libClp,
-        "lib/libClp.1.14.6.dylib",
+        "lib/libClp.1.14.7.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libClpSolver,
-        "lib/libClpSolver.1.14.6.dylib",
+        "lib/libClpSolver.1.14.7.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libOsiClp,
-        "lib/libOsiClp.1.14.6.dylib",
+        "lib/libOsiClp.1.14.7.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
