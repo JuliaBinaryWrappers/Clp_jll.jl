@@ -1,6 +1,6 @@
 name = "Clp_jll"
 uuid = "06985876-5285-5a41-9fcb-8948a742cc53"
-version = "100.1700.700+0"
+version = "100.1700.700+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -17,7 +17,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-MUMPS_seq_jll = "500.500.101"
+MUMPS_seq_jll = "5.4.1"
 CoinUtils_jll = "200.1100.600"
 Osi_jll = "0.10800.700"
-METIS_jll = "5.1.1"
+METIS_jll = "5.1.2"
