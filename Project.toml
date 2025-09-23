@@ -1,6 +1,6 @@
 name = "Clp_jll"
 uuid = "06985876-5285-5a41-9fcb-8948a742cc53"
-version = "100.1700.1000+0"
+version = "100.1700.1000+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
